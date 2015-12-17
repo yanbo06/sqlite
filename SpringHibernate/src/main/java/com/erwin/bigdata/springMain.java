@@ -9,7 +9,7 @@ public class springMain {
 		System.out.println("fewfewf");
 	}
 	
-	public void printV1() {
+	public void pringv2() {
 		
 	}
 }
