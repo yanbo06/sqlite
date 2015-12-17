@@ -8,4 +8,8 @@ public class springMain {
 	public void print(){
 		
 	}
+	
+	public void printV1() {
+		
+	}
 }
