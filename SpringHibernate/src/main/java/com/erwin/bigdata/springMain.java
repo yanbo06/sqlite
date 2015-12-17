@@ -6,7 +6,7 @@ public class springMain {
 	}
 	
 	public void print(){
-		
+		System.out.println("fewfewf");
 	}
 	
 	public void printV1() {
