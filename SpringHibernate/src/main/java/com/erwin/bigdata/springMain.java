@@ -4,4 +4,8 @@ public class springMain {
 	public static void main(String[] argv){
 		System.out.println("Hello GitHub! fe");
 	}
+	
+	public void print(){
+		
+	}
 }
