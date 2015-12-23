@@ -6,4 +6,8 @@ public class Actor{
 	public Actor(){
 		
 	}
+	
+	public void PrintActor(){
+		System.out.println("fewfwe");
+	}
 }
