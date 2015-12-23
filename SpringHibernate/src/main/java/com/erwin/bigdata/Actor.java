@@ -2,6 +2,7 @@ public class Actor{
 	
 	private String id;
 	private String name;
+	private String age;
 	
 	public Actor(){
 		
@@ -13,4 +14,5 @@ public class Actor{
 	public void pActor(){
 		System.out.println("hello actor");
 	}
+	
 }
