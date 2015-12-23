@@ -10,4 +10,7 @@ public class Actor{
 	public void PrintActor(){
 		System.out.println("fewfwe");
 	}
+	public void pActor(){
+		System.out.println("hello actor");
+	}
 }
